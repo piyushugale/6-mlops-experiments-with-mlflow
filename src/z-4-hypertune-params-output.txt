@@ -1,0 +1,113 @@
+# python 4-hypertune-params.py
+
+Accessing as piyushugale
+Initialized MLflow to track repo "piyushugale/6-mlops-experiments-with-mlflow"
+Repository piyushugale/6-mlops-experiments-with-mlflow initialized!
+2025/05/23 23:13:12 INFO mlflow.tracking.fluent: Autologging successfully enabled for sklearn.
+2025/05/23 23:13:12 INFO mlflow.tracking.fluent: Experiment with name 'lops-experiment-hypertune-params-01' does not exist. Creating a new experiment.
+Fitting 5 folds for each of 12 candidates, totalling 60 fits
+[CV] END .......................max_depth=1, n_estimators=10; total time=   0.0s
+[CV] END .......................max_depth=1, n_estimators=10; total time=   0.0s
+[CV] END .......................max_depth=1, n_estimators=10; total time=   0.0s
+[CV] END .......................max_depth=1, n_estimators=10; total time=   0.0s
+[CV] END .......................max_depth=1, n_estimators=10; total time=   0.0s
+[CV] END .......................max_depth=1, n_estimators=50; total time=   0.0s
+[CV] END .......................max_depth=1, n_estimators=50; total time=   0.0s
+[CV] END .......................max_depth=1, n_estimators=50; total time=   0.0s
+[CV] END ......................max_depth=1, n_estimators=100; total time=   0.1s
+[CV] END ......................max_depth=10, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=10, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=1, n_estimators=100; total time=   0.1s
+[CV] END ......................max_depth=10, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=10, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=1, n_estimators=100; total time=   0.1s
+[CV] END ......................max_depth=1, n_estimators=100; total time=   0.1s
+[CV] END ......................max_depth=1, n_estimators=100; total time=   0.1s
+[CV] END ......................max_depth=10, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=10, n_estimators=50; total time=   0.1s
+[CV] END ......................max_depth=10, n_estimators=50; total time=   0.0s
+[CV] END ......................max_depth=10, n_estimators=50; total time=   0.1s
+[CV] END ......................max_depth=10, n_estimators=50; total time=   0.1s
+[CV] END ......................max_depth=10, n_estimators=50; total time=   0.1s
+[CV] END ......................max_depth=20, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=20, n_estimators=10; total time=   0.0s
+[CV] END .......................max_depth=1, n_estimators=50; total time=   0.0s
+[CV] END ......................max_depth=20, n_estimators=10; total time=   0.0s
+[CV] END .......................max_depth=1, n_estimators=50; total time=   0.0s
+[CV] END ......................max_depth=20, n_estimators=10; total time=   0.0s
+[CV] END .....................max_depth=10, n_estimators=100; total time=   0.2s
+[CV] END ......................max_depth=20, n_estimators=10; total time=   0.0s
+[CV] END .....................max_depth=10, n_estimators=100; total time=   0.2s
+[CV] END .....................max_depth=10, n_estimators=100; total time=   0.2s
+[CV] END .....................max_depth=10, n_estimators=100; total time=   0.2s
+[CV] END .....................max_depth=10, n_estimators=100; total time=   0.2s
+[CV] END ......................max_depth=20, n_estimators=50; total time=   0.1s
+[CV] END ......................max_depth=20, n_estimators=50; total time=   0.1s
+[CV] END ......................max_depth=20, n_estimators=50; total time=   0.1s
+[CV] END ......................max_depth=20, n_estimators=50; total time=   0.1s
+[CV] END ......................max_depth=20, n_estimators=50; total time=   0.1s
+[CV] END ......................max_depth=30, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=30, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=30, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=30, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=30, n_estimators=10; total time=   0.0s
+[CV] END .....................max_depth=20, n_estimators=100; total time=   0.2s
+[CV] END .....................max_depth=20, n_estimators=100; total time=   0.2s
+[CV] END .....................max_depth=20, n_estimators=100; total time=   0.2s
+[CV] END .....................max_depth=20, n_estimators=100; total time=   0.2s
+[CV] END ......................max_depth=30, n_estimators=50; total time=   0.1s
+[CV] END ......................max_depth=30, n_estimators=50; total time=   0.1s
+[CV] END .....................max_depth=20, n_estimators=100; total time=   0.3s
+[CV] END ......................max_depth=30, n_estimators=50; total time=   0.1s
+[CV] END ......................max_depth=30, n_estimators=50; total time=   0.0s
+[CV] END ......................max_depth=30, n_estimators=50; total time=   0.1s
+[CV] END .....................max_depth=30, n_estimators=100; total time=   0.2s
+[CV] END .....................max_depth=30, n_estimators=100; total time=   0.2s
+[CV] END .....................max_depth=30, n_estimators=100; total time=   0.2s
+[CV] END .....................max_depth=30, n_estimators=100; total time=   0.2s
+[CV] END .....................max_depth=30, n_estimators=100; total time=   0.2s
+2025/05/23 23:13:37 INFO mlflow.sklearn.utils: Logging the 5 best runs, 7 runs will be omitted.
+🏃 View run treasured-mink-270 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/2b7b26f772144e0dae37ef528194b2db
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run wistful-cow-709 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/2f10edbe741c41caac8b482ffb4fe246
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run sedate-cow-644 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/0eea9b432e5345bb9b4a3fe991bf867a
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run bald-dog-615 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/e69f89587d6340cd85c71954e5d5131e
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run calm-panda-400 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/c91df544b9904789bd3d4f7651c74054
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run overjoyed-pig-986 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/d111f60e57da4e748630c68d8bf0af13
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run valuable-boar-345 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/ff29ff24213d4f22a5a2487e38bc8d57
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run carefree-sheep-654 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/e5438d0aa51a446b9b17af6f7c539373
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run agreeable-roo-109 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/0a6442317a624eb3983351ff9f38ba34
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run polite-fowl-314 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/892dd350b3f64a77b83feb5d65dbed1c
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run unequaled-bat-438 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/49ed6d37627041e99f08ab6bb8cac62b
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run suave-sow-964 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/4a24e46826d240d7af98367b929352bf
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run illustrious-shad-625 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/17244b1b019d4a7daabbc9bfb86df391
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run mercurial-worm-482 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/31d196662f47415a827ffb1b83ef5c11
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run fun-foal-6 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/5079350f50764b5e803996ba7beb4cd2
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run orderly-sheep-569 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/a5081f2c91d942d2865d489aafac8087
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+🏃 View run nebulous-sloth-302 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/747492fd9df34382a4b53d6bb9fea1ef
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+C:\Users\piyus\AppData\Local\Programs\Python\Python39\lib\site-packages\mlflow\types\utils.py:452: UserWarning: Hint: Inferred schema contains integer column(s). Integer columns in Python cannot represent missing values. If your input data contains missing values at inference time, it will be encoded as floats and will cause a schema enforcement error. The best way to avoid this problem is to infer the model schema based on a realistic data sample (training dataset) that includes missing values. Alternatively, you can declare integer columns as doubles (float64) whenever these columns may have missing values. See `Handling Integers With Missing Values <https://www.mlflow.org/docs/latest/models.html#handling-integers-with-missing-values>`_ for more details.
+  warnings.warn(
+C:\Users\piyus\AppData\Local\Programs\Python\Python39\lib\site-packages\mlflow\types\utils.py:452: UserWarning: Hint: Inferred schema contains integer column(s). Integer columns in Python cannot represent missing values. If your input data contains missing values at inference time, it will be encoded as floats and will cause a schema enforcement error. The best way to avoid this problem is to infer the model schema based on a realistic data sample (training dataset) that includes missing values. Alternatively, you can declare integer columns as doubles (float64) whenever these columns may have missing values. See `Handling Integers With Missing Values <https://www.mlflow.org/docs/latest/models.html#handling-integers-with-missing-values>`_ for more details.
+  warnings.warn(
+2025/05/23 23:14:59 WARNING mlflow.models.model: Model logged without a signature and input example. Please set `input_example` parameter when logging the model to auto infer the model signature.  
+{'max_depth': 10, 'n_estimators': 100}
+0.9582417582417582
+🏃 View run aged-cow-548 at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4/runs/dbdb8bf1becc4fba9fa92f7a6e32f438
+🧪 View experiment at: https://dagshub.com/piyushugale/6-mlops-experiments-with-mlflow.mlflow/#/experiments/4
+PS C:\Users\piyus\OneDrive\Desktop\Piyush\mlops-series\6-mlops-experiments-with-mlflow\src>
