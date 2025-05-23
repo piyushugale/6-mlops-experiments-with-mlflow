@@ -1,0 +1,40 @@
+Here are the main MLflow tracking functions you can use to log and manage experiments:
+
+Basic Tracking Functions
+    mlflow.set_tracking_uri() - Set the tracking server URI
+    mlflow.get_tracking_uri() - Get current tracking URI
+    mlflow.set_experiment() - Set active experiment
+    mlflow.start_run() - Start a new MLflow run
+    mlflow.end_run() - End the active run
+Logging Functions
+    mlflow.log_param() - Log a single parameter
+    mlflow.log_params() - Log multiple parameters
+    mlflow.log_metric() - Log a single metric
+    mlflow.log_metrics() - Log multiple metrics
+    mlflow.log_artifact() - Log a local file/directory as artifact
+    mlflow.log_artifacts() - Log multiple artifacts
+    mlflow.set_tag() - Set a tag
+    mlflow.set_tags() - Set multiple tags
+Model Logging
+    mlflow.sklearn.log_model() - Log scikit-learn model
+    mlflow.pytorch.log_model() - Log PyTorch model
+    mlflow.tensorflow.log_model() - Log TensorFlow model
+Query Functions
+    mlflow.search_runs() - Search for runs
+    mlflow.list_experiments() - List all experiments
+    mlflow.get_experiment() - Get experiment details
+    mlflow.get_run() - Get run details
+
+Example usage:
+
+import mlflow
+
+# Set up tracking
+mlflow.set_tracking_uri("http://localhost:5000")
+mlflow.set_experiment("my-experiment")
+
+# Log parameters and metrics
+with mlflow.start_run():
+    mlflow.log_param("param1", value1)
+    mlflow.log_metric("metric1", value2)
+    mlflow.log_artifact("path/to/artifact")

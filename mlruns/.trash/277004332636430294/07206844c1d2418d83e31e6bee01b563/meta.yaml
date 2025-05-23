@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/277004332636430294/07206844c1d2418d83e31e6bee01b563/artifacts
+deleted_time: 1748033214633
+end_time: 1748033097325
+entry_point_name: ''
+experiment_id: '277004332636430294'
+lifecycle_stage: deleted
+run_id: 07206844c1d2418d83e31e6bee01b563
+run_name: thundering-moose-125
+run_uuid: 07206844c1d2418d83e31e6bee01b563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748033090078
+status: 3
+tags: []
+user_id: piyus
