@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636
+creation_time: 1748037848330
+experiment_id: '227133753883999636'
+last_update_time: 1748037848330
+lifecycle_stage: active
+name: breast-cancer-rf-hp

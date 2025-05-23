@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/abf1a584d1c345b99c6f0d9267b76cef/artifacts
+end_time: 1748037859148
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: abf1a584d1c345b99c6f0d9267b76cef
+run_name: suave-tern-731
+run_uuid: abf1a584d1c345b99c6f0d9267b76cef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037849062
+status: 3
+tags: []
+user_id: piyus

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/87caab12e1f844b0a94960a363b51276/artifacts
+end_time: 1748037854153
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: 87caab12e1f844b0a94960a363b51276
+run_name: traveling-mink-528
+run_uuid: 87caab12e1f844b0a94960a363b51276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037854100
+status: 3
+tags: []
+user_id: piyus

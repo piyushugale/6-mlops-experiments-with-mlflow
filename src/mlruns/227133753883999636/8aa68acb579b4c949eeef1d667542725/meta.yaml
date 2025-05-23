@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/8aa68acb579b4c949eeef1d667542725/artifacts
+end_time: 1748037932717
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: 8aa68acb579b4c949eeef1d667542725
+run_name: redolent-toad-847
+run_uuid: 8aa68acb579b4c949eeef1d667542725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037932645
+status: 3
+tags: []
+user_id: piyus

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/fc4ce5b4ab0c44ecbc18a41df102f86b/artifacts
+end_time: 1748037854327
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: fc4ce5b4ab0c44ecbc18a41df102f86b
+run_name: bald-croc-273
+run_uuid: fc4ce5b4ab0c44ecbc18a41df102f86b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037854281
+status: 3
+tags: []
+user_id: piyus

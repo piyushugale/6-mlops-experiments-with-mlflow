@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/37293f63b859437aa497a733d41b27d0/artifacts
+end_time: 1748037933034
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: 37293f63b859437aa497a733d41b27d0
+run_name: invincible-seal-433
+run_uuid: 37293f63b859437aa497a733d41b27d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037932984
+status: 3
+tags: []
+user_id: piyus

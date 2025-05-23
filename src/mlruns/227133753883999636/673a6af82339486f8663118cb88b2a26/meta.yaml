@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/673a6af82339486f8663118cb88b2a26/artifacts
+end_time: 1748037854527
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: 673a6af82339486f8663118cb88b2a26
+run_name: traveling-skunk-907
+run_uuid: 673a6af82339486f8663118cb88b2a26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037854493
+status: 3
+tags: []
+user_id: piyus

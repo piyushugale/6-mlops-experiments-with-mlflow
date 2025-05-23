@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/c835bf07edb54bd4955819a79be3a641/artifacts
+end_time: 1748037854735
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: c835bf07edb54bd4955819a79be3a641
+run_name: luminous-elk-587
+run_uuid: c835bf07edb54bd4955819a79be3a641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037854677
+status: 3
+tags: []
+user_id: piyus

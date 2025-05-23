@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/1e211ce0025a4156be917e6fd7aa4a8a/artifacts
+end_time: 1748037933150
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: 1e211ce0025a4156be917e6fd7aa4a8a
+run_name: capable-foal-837
+run_uuid: 1e211ce0025a4156be917e6fd7aa4a8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037933100
+status: 3
+tags: []
+user_id: piyus

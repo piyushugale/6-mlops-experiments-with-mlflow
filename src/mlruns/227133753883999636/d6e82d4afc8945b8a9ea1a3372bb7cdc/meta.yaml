@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/d6e82d4afc8945b8a9ea1a3372bb7cdc/artifacts
+end_time: 1748037933250
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: d6e82d4afc8945b8a9ea1a3372bb7cdc
+run_name: valuable-lynx-209
+run_uuid: d6e82d4afc8945b8a9ea1a3372bb7cdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037933210
+status: 3
+tags: []
+user_id: piyus

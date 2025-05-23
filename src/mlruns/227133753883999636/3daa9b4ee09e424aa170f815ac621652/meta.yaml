@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/3daa9b4ee09e424aa170f815ac621652/artifacts
+end_time: 1748037932984
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: 3daa9b4ee09e424aa170f815ac621652
+run_name: mysterious-ant-951
+run_uuid: 3daa9b4ee09e424aa170f815ac621652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037932949
+status: 3
+tags: []
+user_id: piyus

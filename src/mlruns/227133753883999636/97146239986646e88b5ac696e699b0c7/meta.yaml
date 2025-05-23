@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/97146239986646e88b5ac696e699b0c7/artifacts
+end_time: 1748037933200
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: 97146239986646e88b5ac696e699b0c7
+run_name: fun-shark-804
+run_uuid: 97146239986646e88b5ac696e699b0c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037933150
+status: 3
+tags: []
+user_id: piyus

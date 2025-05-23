@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/8365e8cbe9ab4a19a0643cdd6bf85ed4/artifacts
+end_time: 1748037854427
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: 8365e8cbe9ab4a19a0643cdd6bf85ed4
+run_name: casual-wasp-655
+run_uuid: 8365e8cbe9ab4a19a0643cdd6bf85ed4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037854377
+status: 3
+tags: []
+user_id: piyus

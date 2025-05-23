@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/ed4e37ee81ac442e919497589459910a/artifacts
+end_time: 1748037854279
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: ed4e37ee81ac442e919497589459910a
+run_name: able-snake-74
+run_uuid: ed4e37ee81ac442e919497589459910a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037854198
+status: 3
+tags: []
+user_id: piyus

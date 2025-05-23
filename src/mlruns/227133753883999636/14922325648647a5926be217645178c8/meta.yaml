@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/14922325648647a5926be217645178c8/artifacts
+end_time: 1748037854189
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: 14922325648647a5926be217645178c8
+run_name: sincere-carp-442
+run_uuid: 14922325648647a5926be217645178c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037854153
+status: 3
+tags: []
+user_id: piyus

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/b635d0efc5c34cd28098d903c81dd5ba/artifacts
+end_time: 1748037854577
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: b635d0efc5c34cd28098d903c81dd5ba
+run_name: flawless-gull-475
+run_uuid: b635d0efc5c34cd28098d903c81dd5ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037854527
+status: 3
+tags: []
+user_id: piyus

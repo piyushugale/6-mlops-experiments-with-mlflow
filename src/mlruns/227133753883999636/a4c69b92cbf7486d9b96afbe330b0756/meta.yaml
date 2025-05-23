@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/piyus/OneDrive/Desktop/Piyush/mlops-series/6-mlops-experiments-with-mlflow/src/mlruns/227133753883999636/a4c69b92cbf7486d9b96afbe330b0756/artifacts
+end_time: 1748037933100
+entry_point_name: ''
+experiment_id: '227133753883999636'
+lifecycle_stage: active
+run_id: a4c69b92cbf7486d9b96afbe330b0756
+run_name: spiffy-perch-102
+run_uuid: a4c69b92cbf7486d9b96afbe330b0756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748037933050
+status: 3
+tags: []
+user_id: piyus
